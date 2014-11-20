@@ -32,3 +32,7 @@ or from a customer's order history).
 In my product factory, I has the first char of a line from data4movies.txt to create either a comedy, drama, or a classic.
 I then use the pure virtual method from the product class, setdata(ifstream&), to create a movie. 
 
+If the video
+rental store also wanted to carry action movies, the only re-factoring required would be minimally modifiying 
+productfactory.cpp so that hashing 'A' would create a new action movie. 
+
