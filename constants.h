@@ -1,0 +1,15 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+const int NUM_TYPES_OF_FORMATS = 100;
+const int NUM_TYPES_OF_TRANSACTIONS = 100;
+const int NUM_TYPES_OF_PRODUCTS = 100;
+const int NUM_COPIES = 10;
+const int MAX_DIRECTOR_DISPLAY_WIDTH = 16;
+const int MAX_TITLE_DISPLAY_WIDTH = 20;
+const int INITIAL_HISTORY_SIZE = 100;
+const int MAX_CUSTOMER_ID = 10000;
+const int START_TRANSACTIONS_QUANTITY = 100;
+const int ARRAY_SIZE = 100;
+
+#endif
