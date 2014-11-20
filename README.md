@@ -12,12 +12,15 @@ There are three types of movies implemented: Comedy (F), Classic (C), and Drama 
 criteria, and are represented in data4movies.txt differently.
 
 Dramas have a director, a title, and a year. Dramas are sorted by director, then title.
+
 Example Drama: D Barry Levinson, Good Morning Vietnam, 1988
 
 Comedies have a title, director, and year. Comedies are sorted by title, then year.
+
 Example Comedy: F Todd Phillips, The Hangover, 2009
 
 Classics have a director, title, lead performer, month, and year.
+
 Example Classic:C Frank Capra, It's a Wonderful Life, Donna Reed 11 1946
 
 
